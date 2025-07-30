@@ -55,7 +55,7 @@ A stunning, modern landing page for ADmyBRAND AI Suite built with Next.js 14, Ty
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/yourusername/admybrand-landing.git
+   git clone https://github.com/Heramb04/admybrand-landing.git
    cd admybrand-landing
    \`\`\`
 
@@ -226,14 +226,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Icons** - Lucide React icon library
 - **Animations** - Framer Motion community examples
 
-## 📞 Support
+## 📖 Documentation
+- Check the component files for detailed prop interfaces
+## 📝 Usage & Attribution
+This project is open source and available for use under the MIT License. When using this code:
 
-If you have any questions or need help with setup:
-
-- 📧 Email: hello@admybrand.ai
-- 💬 GitHub Issues: [Create an issue](https://github.com/yourusername/admybrand-landing/issues)
-- 📖 Documentation: Check the component files for detailed prop interfaces
+- **Commercial Use**: Permitted with attribution
+- **Modification**: Allowed with attribution to the original author
+- **Distribution**: Please include a link to the original repository
+- **Attribution Format**: "Based on work by [Heramb Joshi] - [(https://github.com/Heramb04/admybrand-landing.git)]"
 
 ---
 
-**Built with ❤️ using Next.js, TypeScript, and Tailwind CSS**
+
